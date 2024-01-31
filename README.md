@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Mateus Campos
 
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/mateus-r-campos/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/mateus-r-campos/)
 
 
 [See about me.](https://mateuscampos.dev/about)
